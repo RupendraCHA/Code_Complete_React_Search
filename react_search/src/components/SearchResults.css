@@ -1,0 +1,14 @@
+.search-result {
+  padding: 5px 10px;
+  /* font-family: "Roboto"; */
+  font-weight: 600;
+  font-size: 14px;
+  color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.search-result:hover {
+  background-color: #d5d4d4;
+  color: #000;
+}
